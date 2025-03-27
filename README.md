@@ -49,14 +49,6 @@ Digite 3 para posOrder
 Digite 0 para sair
 ```
 
-## ✨ Contribuição
-Sinta-se à vontade para contribuir! Basta seguir os passos:
-1. **Fork** o repositório
-2. Crie uma **branch** (`feature/nova-funcionalidade`)
-3. Faça um **commit** (`git commit -m 'Adicionando nova funcionalidade'`)
-4. **Push** na branch (`git push origin feature/nova-funcionalidade`)
-5. Abra um **Pull Request**
-
 ## 📜 Licença
 Este projeto está sob a licença **MIT**. Você pode usá-lo, modificá-lo e distribuí-lo livremente! 📝
 
