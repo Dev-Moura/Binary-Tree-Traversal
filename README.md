@@ -22,7 +22,7 @@ Este projeto implementa uma **Árvore Binária de Busca (ABB)** em Java, permiti
 
 ### 1️⃣ Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/binary-tree-traversal.git
+git clone https://github.com/Dev-Moura/Binary-Tree-Traversal
 ```
 
 ### 2️⃣ Compilar e Executar
@@ -60,5 +60,3 @@ Sinta-se à vontade para contribuir! Basta seguir os passos:
 ## 📜 Licença
 Este projeto está sob a licença **MIT**. Você pode usá-lo, modificá-lo e distribuí-lo livremente! 📝
 
----
-🔗 *Não esqueça de atualizar o link do repositório no comando de clone!* 🚀
